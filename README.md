@@ -9,6 +9,7 @@ Scalable features
 preset environments possible
 1. Tectonic plates considered for mountain range placement.
 2. Planned implementation of volcano generation.
+3. Would be interesting to set up wrapping Voroni tessalation for proper plate geometry. 
 
 Current method VERY sensitive to range of conflict checker and number of tries per test. Over 15 seems to give best results
 
