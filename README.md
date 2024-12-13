@@ -1,3 +1,6 @@
+procedural map generator using constraint satisfaction.
+
+
 Inspiration from "Programmable Chaos": https://www.youtube.com/watch?v=gKNJKce1p8M
 
 Features:
